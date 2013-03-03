@@ -1,4 +1,11 @@
 bsides_vancouver_2013
 =====================
 
-collection of ipython notebooks and volatility 2.3 and volatility 3.0TP2 and live memory analysis 
+These programs are interactive workbooks from my BSIDES Vancouver 2013 talk on Volatility 3.0TP2 and live memory analysis.
+
+They consist of a collection of iPython Notebooks and Volatility 2.3 and Volatility 3.0TP2 for DFIR and live memory analysis
+
+Follow Along
+____________
+
+http://nbviewer.ipython.org/urls/raw.github.com/bigsnarfdude/bsides_vancouver_2013/master/05-TimeSeriesReview.ipynb 
