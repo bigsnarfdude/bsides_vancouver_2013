@@ -10,6 +10,6 @@ ____________
 
 http://nbviewer.ipython.org/urls/raw.github.com/bigsnarfdude/bsides_vancouver_2013/master/01-presentation-ME.ipynb
 
-
+http://nbviewer.ipython.org/urls/raw.github.com/bigsnarfdude/bsides_vancouver_2013/master/02-parsing_memdumps_ipaddress.ipynb
 
 http://nbviewer.ipython.org/urls/raw.github.com/bigsnarfdude/bsides_vancouver_2013/master/05-TimeSeriesReview.ipynb 
