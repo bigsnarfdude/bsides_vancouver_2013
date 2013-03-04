@@ -14,4 +14,6 @@ http://nbviewer.ipython.org/urls/raw.github.com/bigsnarfdude/bsides_vancouver_20
 
 http://nbviewer.ipython.org/urls/raw.github.com/bigsnarfdude/bsides_vancouver_2013/master/03-presentation-intro.ipynb
 
+http://nbviewer.ipython.org/urls/raw.github.com/bigsnarfdude/bsides_vancouver_2013/master/04-presentation-SBtrojan.ipynb
+
 http://nbviewer.ipython.org/urls/raw.github.com/bigsnarfdude/bsides_vancouver_2013/master/05-TimeSeriesReview.ipynb 
