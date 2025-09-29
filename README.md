@@ -22,7 +22,7 @@ http://nbviewer.ipython.org/urls/raw.github.com/bigsnarfdude/bsides_vancouver_20
 
 .
 2025 CC review
-
+```
   feature_vector = {
       # Feature 1: Failure Rate
       'failure_rate_1h': 0.85,
@@ -57,3 +57,4 @@ http://nbviewer.ipython.org/urls/raw.github.com/bigsnarfdude/bsides_vancouver_20
       'pattern_type_credential_stuffing': 1,  # One-hot encoded
       'pattern_type_brute_force': 0
   }
+```
