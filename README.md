@@ -21,7 +21,9 @@ http://nbviewer.ipython.org/urls/raw.github.com/bigsnarfdude/bsides_vancouver_20
 http://nbviewer.ipython.org/urls/raw.github.com/bigsnarfdude/bsides_vancouver_2013/master/06-next_Steps.ipynb
 
 .
-2025 CC review
+
+
+2025 CC review. Thoughts on feature vectors for TimeSeriesReview notebook
 ```
   feature_vector = {
       # Feature 1: Failure Rate
