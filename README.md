@@ -24,7 +24,7 @@ http://nbviewer.ipython.org/urls/raw.github.com/bigsnarfdude/bsides_vancouver_20
 .
 
 
-2025 CC review. Thoughts on feature vectors for TimeSeriesReview notebook
+2025 CC review. Thoughts on feature vectors for TimeSeriesReview notebook. Lots of potential for better detection than 13 years ago
 ```
   feature_vector = {
       # Feature 1: Failure Rate
